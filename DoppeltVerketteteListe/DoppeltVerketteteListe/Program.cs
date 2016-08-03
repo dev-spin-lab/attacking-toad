@@ -48,7 +48,7 @@ namespace DoppeltVerketteteListe
                     case 8: // x
                         programmAbbruch = true;
                         break;
-                    default:
+                    default: // Default
                         Console.WriteLine("Verstehe ich nicht...");
                         break;
                 }
