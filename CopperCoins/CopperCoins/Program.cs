@@ -17,6 +17,7 @@ namespace CopperCoins
             int value = userValue;
 
             //Endwert berechnen.
+
             while (value > 0)
             {
                 if (value >= 5)
